@@ -9,3 +9,11 @@ more
 cat
 history >> nombre.formato
 history > nombre.formato
+-$ mi home
+/$ root
+mkdir
+tree
+tree | less
+sudo su -
+sudo su
+exit 
