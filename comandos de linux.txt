@@ -1,0 +1,11 @@
+man
+info
+ls
+cd
+pwd
+echo "mensaje" >> nombre.formato
+less
+more
+cat
+history >> nombre.formato
+history > nombre.formato
