@@ -18,3 +18,19 @@ sudo su -
 sudo su
 exit 
 parrot security
+kila
+santoku
+uname
+uname -a
+uptime
+uptime -s
+uptime -p
+hostname
+hostname -i
+domainname
+last reboot
+date
+cal
+w
+whoami
+finger
