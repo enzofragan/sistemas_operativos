@@ -17,3 +17,4 @@ tree | less
 sudo su -
 sudo su
 exit 
+parrot security
