@@ -37,3 +37,4 @@ finger
 ls sd*
 sudo fdisk sd... despues n, enter enter enter, w
 sudo mkfs sd....1
+sudo mount sd....
