@@ -35,5 +35,5 @@ w
 whoami
 finger
 ls sd*
-fdisk sd... despues n, enter enter enter, w
+sudo fdisk sd... despues n, enter enter enter, w
 sudo mkfs sd....1
