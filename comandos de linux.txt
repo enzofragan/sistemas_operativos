@@ -34,3 +34,6 @@ cal
 w
 whoami
 finger
+ls sd*
+fdisk sdb despues n, enter enter enter, w
+sudo mkfs sdb1
